@@ -7,6 +7,8 @@
 </head>
 <body>
 	<?php 
+
+	//teste de comentario
 		$a = 10
 		echo "o valor de a é " . $a ;
 
